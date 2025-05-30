@@ -1,6 +1,6 @@
 # Montevideo se mueve: Datos para una movilidad más segura
 
-![Urban Mobility](https://img.shields.io/badge/Montevideo–Movilidad–blue)
+
 
 ## Descripción
 
